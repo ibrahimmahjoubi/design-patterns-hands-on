@@ -1,4 +1,4 @@
-package DesignPAtterns;
+package builder;
 
 public interface PriceBuilder {
 
